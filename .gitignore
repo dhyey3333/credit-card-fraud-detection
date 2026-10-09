@@ -1,0 +1,8 @@
+# The Kaggle dataset (150 MB): download it yourself, see README
+creditcard.csv
+# Files the app writes while running
+fraud_report.pdf
+cm.png
+__pycache__/
+*.pyc
+.venv/
